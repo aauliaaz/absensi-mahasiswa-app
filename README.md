@@ -1,6 +1,9 @@
 # Absensi Mahasiswa App
 Aplikasi sederhana untuk mengelola data absensi mahasiswa berbasis web.
 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/553d1f06-0e19-4184-946a-5c22eeda21e8" />
+
+
 Project ini menggunakan arsitektur:
 - Backend: Node.js + Express.js  
 - Frontend: React.js (Vite)  
