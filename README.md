@@ -17,9 +17,9 @@ yang menangangi:
 - Koneksi ke database MySQL  
 - Penyediaan REST API  
 - Operasi CRUD absensi mahasiswa
-- 
+  
 ### 2. `absensi-mahasiswa` (Frontend)
-Folder **absensi-mahasiswa** adalah project terpisah yang digunakan khusus untuk sisi frontend aplikasi.
+Folder **absensi-mahasiswa** adalah  digunakan untuk sisi frontend aplikasi.
 
 Frontend dibangun menggunakan:
 - React.js  
