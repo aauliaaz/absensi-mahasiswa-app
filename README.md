@@ -19,7 +19,7 @@ yang menangangi:
 - Operasi CRUD absensi mahasiswa
   
 ### 2. `absensi-mahasiswa` (Frontend)
-Folder **absensi-mahasiswa** adalah  digunakan untuk sisi frontend aplikasi.
+Folder **absensi-mahasiswa** berisi source code untuk sisi frontend aplikasi.
 
 Frontend dibangun menggunakan:
 - React.js  
